@@ -1,13 +1,13 @@
 ## General
-Manufacturer: Samsung
-Bought: 11/2025
+Manufacturer: Samsung <br>
+Bought: 11/2025 <br>
 
 ## Specs
-CPU: 
-RAM: 8GB
-GPU: 
-DISKS: 256GB
+CPU: <br>
+RAM: 8GB <br>
+GPU: <br>
+DISKS: 256GB <br>
 
 ## OS
-Kernel: Android 16
-Installed: 
+Kernel: Android 16 <br>
+Installed: <br>
